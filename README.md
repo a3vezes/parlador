@@ -13,7 +13,7 @@
 - expo start, para iniciar o aplicativo
 - Ler o QR Code gerado com o app do Expo
 
-##  **Dependencias Backend**
+##  **Depêndencias Backend**
 - bcrypt e bcryptjs para criptografar senhas
 - colors para deixar o terminal mais intuitivo
 - cors para habilitar o Cross-origin resource sharing
@@ -24,7 +24,7 @@
 - mongoose para utilizar o MongoDB no projeto
 - nodemon para reiniciar o servidor caso aconteça um erro
 
-##  **Dependencias Mobile**
+##  **Depêndencias Mobile**
 - react-navigation para controlar o acesso as rotas
 - axios para consumir a API
 - react-native-elements para UI
